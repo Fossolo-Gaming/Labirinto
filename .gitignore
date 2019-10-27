@@ -2,5 +2,8 @@
 
 .vs/
 Library\
+Library
+Library/
 obj\
 Temp/
+.vs/Labirinto/v15/.suo
